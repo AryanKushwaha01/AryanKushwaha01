@@ -7,15 +7,15 @@
 ### 💻 Software Development | 🤖 Machine Learning & Computer Vision | ⚙️ Data Structures & Algorithms
 
 <p>
-  <a href="https://github.com/AryanKushwaha01">
-    <img src="https://img.shields.io/github/followers/AryanKushwaha01?label=Followers&style=for-the-badge&color=blue" />
-  </a>
-  <a href="https://github.com/AryanKushwaha01?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-success?style=for-the-badge" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/AryanKushwaha01">
+    <img src="https://img.shields.io/github/followers/AryanKushwaha01?label=Followers&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://github.com/AryanKushwaha01?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore-success?style=for-the-badge" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -153,11 +153,11 @@ To become a highly skilled Software / ML Engineer building scalable and impactfu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryanKushwaha01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=AryanKushwaha01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://streak-stats.demolab.com/?user=AryanKushwaha01&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKushwaha01&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=AryanKushwaha01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -208,3 +208,5 @@ To become a highly skilled Software / ML Engineer building scalable and impactfu
 <img src="https://komarev.com/ghpvc/?username=AryanKushwaha01&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
 </div>
+
+
