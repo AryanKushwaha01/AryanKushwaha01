@@ -1,145 +1,210 @@
-# 👋 Hi, I'm Aryan Kushwaha
+<div align="center">
 
-🚀 **B.Tech Computer Science Engineering Student @ Lovely Professional University**  
-💻 **Software Development | Machine Learning | Computer Vision | DSA (C++)**  
-🔥 *Passionate about building impactful software and solving real-world problems through technology*
+# Hey there! 👋 I'm Aryan Kushwaha
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer;Computer+Vision+Enthusiast;Machine+Learning+Explorer;Problem+Solver+(C%2B%2B)" alt="Typing SVG" />
+
+### 💻 Software Development | 🤖 Machine Learning & Computer Vision | ⚙️ Data Structures & Algorithms
+
+<p>
+  <a href="https://github.com/AryanKushwaha01">
+    <img src="https://img.shields.io/github/followers/AryanKushwaha01?label=Followers&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://github.com/AryanKushwaha01?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore-success?style=for-the-badge" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🌟 About Me
 
-🎓 **B.Tech CSE Student** passionate about Software Engineering, Artificial Intelligence, and Full-Stack Development.
+🎓 I'm a Computer Science Engineering student @ Lovely Professional University, passionate about creating scalable software, exploring machine learning, and designing real-world AI applications.
 
-🌱 **Currently Learning & Mastering:**
-- **Data Structures & Algorithms** (C++)
-- **Backend Development** (Python, Node.js)
-- **Machine Learning & Computer Vision**
-- **Linux & System Programming**
-- **DevOps & Cloud** (AWS)
-
-💡 **My Interests:**
-- Software & Web Development
+💡 My interests include:
+- Software Engineering & Architecture
 - Machine Learning & Deep Learning
 - Computer Vision & Image Processing
-- Competitive Programming & Problem Solving
-- Open Source Contribution
+- Data Structures & Algorithms (C++)
+- Linux System Programming & Open Source
 
-🎯 **Career Goal:**
-Become a highly skilled Software Engineer / Machine Learning Engineer building scalable, high-performance, and impactful systems.
+🚀 I enjoy building end-to-end projects that combine backend logic, algorithmic problem-solving, and practical user utility.
+
+📚 Currently improving my:
+- Advanced Data Structures & Algorithmic Problem Solving
+- Full Stack & Web Development Systems
+- Deep Learning & Advanced Computer Vision Models
+- DevOps, Containerization, and Cloud (AWS)
+
+🎯 Goal:
+To become a highly skilled Software / ML Engineer building scalable and impactful systems.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## 💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-### 🤖 Machine Learning / AI / CV
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-- Computer Vision & Image Processing
-- NLP & Sentiment Analysis
-- Data Preprocessing & Model Optimization
+## 🌐 Frontend & Web Development
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-### ⚙️ Core Concepts
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOPs)
-- Operating Systems (OS)
-- Database Management Systems (DBMS)
-- Computer Networks (CN)
+## 🤖 AI, ML & Computer Vision
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-### 🧰 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+## 🧰 Tools & Platforms
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌟 [DeckLaunch](https://github.com/AryanKushwaha01/Deck-Launch)
-**AI-Powered Pitch Deck Auditing & Startup Fundraising Platform**
-- Built an end-to-end web platform designed to analyze pitch decks, provide AI-powered audits, connect startups with investors, and offer fundraising support.
-- **Tech Stack:** React, JavaScript, Vercel.
-- **Links:** [📁 GitHub Repository](https://github.com/AryanKushwaha01/Deck-Launch) | [🌐 Live Demo Website](https://deck-launch.vercel.app)
+## <a href="https://github.com/AryanKushwaha01/Deck-Launch">📌 DeckLaunch: AI-Powered Pitch Deck Auditing Platform</a>
+🔹 An end-to-end startup platform featuring AI-powered pitch deck auditing, investor connections, and fundraising assistance.
+
+🔹 **Tech Stack:** React, JavaScript, CSS, Vercel.
+
+🔹 **Features:**
+- Interactive Pitch Deck Audits
+- Seamless Investor-to-Startup Discovery
+- Modern Web Interface Deployed on Vercel
+- Analytics & Scoring Dashboard
 
 ---
 
-### 📸 [Real-Time Image Processing System](https://github.com/AryanKushwaha01/image-processing)
-**Raspberry Pi + OpenCV + Python**
-- Designed a real-time image processing pipeline using a Raspberry Pi Camera module and OpenCV for live edge detection, filtering, and video frame analysis.
-- Features: Real-time image capture, fast preprocessing filters, object detection pipeline, and lightweight edge-device deployment.
-- **Tech Stack:** Python, OpenCV, Raspberry Pi.
-- **Links:** [📁 GitHub Repository](https://github.com/AryanKushwaha01/image-processing)
+## <a href="https://github.com/AryanKushwaha01/image-processing">📌 Real-Time Image Processing System</a>
+🔹 A high-performance real-time image capture and preprocessing pipeline optimized for edge deployments.
+
+🔹 **Tech Stack:** Python, OpenCV, Raspberry Pi.
+
+🔹 **Features:**
+- Low-Latency Real-Time Image Preprocessing
+- Multi-Stage Object Detection Pipeline
+- Hardware-Optimized Deployments on Raspberry Pi
 
 ---
 
-### 📰 [Fake News Detection System](https://github.com/AryanKushwaha01/fake-news-detection-)
-**Machine Learning + NLP Classifier**
-- Developed a natural language processing model to classify news articles as real or fake based on textual content.
-- Features: Data cleaning, TF-IDF vectorization, classifier comparison (Logistic Regression, Passive Aggressive Classifier), and model evaluation metrics.
-- **Tech Stack:** Python, Jupyter Notebook, Scikit-Learn, NLTK.
-- **Links:** [📁 GitHub Repository](https://github.com/AryanKushwaha01/fake-news-detection-)
+## <a href="https://github.com/AryanKushwaha01/fake-news-detection-">📌 Fake News Detection System</a>
+🔹 An NLP-based machine learning model designed to detect and classify fake news articles with high accuracy.
+
+🔹 **Tech Stack:** Python, Machine Learning, Jupyter Notebook, NLP.
+
+🔹 **Features:**
+- Advanced Text Cleaning and NLP Preprocessing
+- Classifier Comparison (Logistic Regression, Passive Aggressive Classifier)
+- TF-IDF Vectorization & Feature Engineering
 
 ---
 
-### 🌧️ [Rainfall Prediction System](https://github.com/AryanKushwaha01/rainfall-predicition-system)
-**Machine Learning Forecasting**
-- Engineered an ML model to analyze meteorological parameters and predict rainfall probabilities.
-- Features: Correlation analysis, handling missing values, feature selection, and classification models.
-- **Tech Stack:** Python, Jupyter Notebook, Pandas, Scikit-Learn.
-- **Links:** [📁 GitHub Repository](https://github.com/AryanKushwaha01/rainfall-predicition-system)
+## <a href="https://github.com/AryanKushwaha01/rainfall-predicition-system">📌 Rainfall Prediction System</a>
+🔹 A machine learning diagnostic model predicting rainfall probability based on historical meteorological parameters.
+
+🔹 **Tech Stack:** Python, Machine Learning, Jupyter Notebook, Pandas.
+
+🔹 **Features:**
+- Statistical Correlation Analysis of Weather Data
+- Robust Data Preprocessing & Missing Value Imputation
+- Predictive Modeling and Accuracy Analysis
 
 ---
 
-### 🌾 Crop Health Detection System
-**Machine Learning + Drone/Satellite Imagery**
-- Developed a machine learning system to evaluate crop health and diagnose crop diseases from high-resolution aerial and drone photography.
-- Features: Image segmentation, health classification index, and disease pattern detection.
-- **Tech Stack:** Python, OpenCV, Scikit-Learn.
+## <a href="https://github.com/AryanKushwaha01/Data-Structure-and-Algorithm">📌 Data Structures & Algorithms Library</a>
+🔹 A collection of optimized implementations of core computer science structures and algorithmic paradigms.
+
+🔹 **Tech Stack:** C++, OOPs, DSA.
+
+🔹 **Features:**
+- Hand-Crafted Implementations of Trees, Graphs, and Hash Maps
+- Algorithmic Templates (Dynamic Programming, Recursion, Sorting/Searching)
+- Clean, Reusable Code Focused on Optimizing Time & Space Complexity
 
 ---
 
-### 💻 [Data Structures & Algorithms](https://github.com/AryanKushwaha01/Data-Structure-and-Algorithm)
-**C++ Problem Solving Library**
-- A repository containing well-structured C++ implementations of core data structures (Trees, Graphs, Stacks, Queues, Linked Lists) and algorithm designs (Sorting, Searching, Dynamic Programming).
-- **Tech Stack:** C++, OOPs.
-- **Links:** [📁 GitHub Repository](https://github.com/AryanKushwaha01/Data-Structure-and-Algorithm)
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanKushwaha01&show_icons=true&theme=tokyonight" alt="Aryan's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKushwaha01&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=AryanKushwaha01&theme=tokyonight" alt="GitHub Streak" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryanKushwaha01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com/?user=AryanKushwaha01&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKushwaha01&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-## 🔥 Coding Profiles
+# 🏆 Achievements & Certifications
 
-- 🏆 **LeetCode:** [leetcode.com/u/AryanKushwaha01](https://leetcode.com/u/AryanKushwaha01/)
-- 💻 **GeeksforGeeks:** [geeksforgeeks.org/user/aryankushwaha01](https://www.geeksforgeeks.org/user/aryankushwaha01/)
-- 💼 **LinkedIn:** [linkedin.com/in/aryan-kushwaha001](https://linkedin.com/in/aryan-kushwaha001)
+🏅 Developed multiple machine learning models and edge-computing applications
+
+🏅 Active coder solving algorithmic challenges in C++
+
+🏅 Experienced in deploying React/JavaScript applications on Vercel
+
+🏅 Hands-on experience building custom embedded computer vision pipelines using Raspberry Pi
 
 ---
 
-## 🤝 Connect With Me
+# 🌐 Connect With Me
 
-📧 **Email:** [aryan.kushwaha01@example.com](mailto:aryan.kushwaha01@example.com) *(Update with your actual email)*  
-💼 **LinkedIn:** [Aryan Kushwaha](https://linkedin.com/in/aryan-kushwaha001)  
+<div align="center">
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+<a href="https://linkedin.com/in/aryan-kushwaha001">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-**"Code • Learn • Build • Repeat 🚀"**
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/AryanKushwaha01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# ✨ Developer Philosophy
+
+> "Code is not just about solving problems. It’s about building solutions that create impact."
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=AryanKushwaha01&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+
+</div>
